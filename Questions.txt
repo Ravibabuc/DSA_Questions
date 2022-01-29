@@ -1,0 +1,19 @@
+TRIES
+--------------
+1) Types of Trees
+2) Preorder , in order and post order travels , recursion, iterative and applications and use cases
+3) Given BT check is it symytric?
+4) Given Tree find the hight of the tree?
+5) if your given preorder and inorder travesal can you construct tree?
+6) if your given preorder and post order travesal can you construct tree?
+7) if your given Inorder and post order travesal can you construct tree?
+8) Vertical order traversal
+9) Print Top view
+10) Given Binary tree is hieght balanced
+11)Given Binary Tree find the Diamer of the tree(longest path is the diameter)
+https://www.techiedelight.com/calculate-height-binary-tree-iterative-recursive/
+https://www.codespeedy.com/range-minimum-query-in-segment-tree-using-cpp/
+
+
+Dnaymic Programming
+1) 
