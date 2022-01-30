@@ -27,3 +27,4 @@ Characteristics of Dynamic Programming
             Bottom-up with Tabulation
 
 1) Given N Stairs , Find the number of ways to reach from bottom to Top. Condition one time can clime 1 or 2 steps.
+2) Given No N , Find the minimum no of no's where sum squares = N
